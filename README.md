@@ -15,4 +15,5 @@
 создаем запросы в строке, выполняем, заносим полученные значения в график ддля каждой задачи.
 
 скрин:
-![bWtz2bpuwkE](https://github.com/VladKirichenko0/final_practices/assets/156305350/7d469677-ed25-4ac4-b0be-cbbb86006fe6)
+
+![bWtz2bpuwkE](https://github.com/VladKirichenko0/finality/assets/156305350/feb068ca-cd33-4001-8e4d-e8568fcc9130)
